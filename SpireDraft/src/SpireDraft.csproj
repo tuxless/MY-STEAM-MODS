@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>SpireDraft</AssemblyName>
+    <Version>0.1.1</Version>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+    <RitsuLibAutoCopy>false</RitsuLibAutoCopy>
+    <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="sts2" HintPath="$(GameDataDir)/sts2.dll" Private="false" />
+    <Reference Include="0Harmony" HintPath="$(GameDataDir)/0Harmony.dll" Private="false" />
+    <Reference Include="SmartFormat" HintPath="$(GameDataDir)/SmartFormat.dll" Private="false" />
+    <PackageReference Include="STS2.RitsuLib.Compat.0.107.1" Version="0.6.2" ExcludeAssets="build;buildTransitive;contentFiles" />
+    <PackageReference Include="GodotSharp" Version="4.5.1" />
+    <EmbeddedResource Include="../data/ratings.*.json" />
+  </ItemGroup>
+  <Target Name="CheckGameReferences" BeforeTargets="ResolveAssemblyReferences">
+    <Error Condition="!Exists('$(GameDataDir)/sts2.dll')" Text="Missing game references. Run Build.cmd or pass -p:GameDataDir=YOUR_GAME_DATA_FOLDER." />
+    <Error Condition="!Exists('$(GameDataDir)/0Harmony.dll')" Text="Missing 0Harmony.dll from the same game installation." />
+  </Target>
+</Project>

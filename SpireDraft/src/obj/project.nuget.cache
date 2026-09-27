@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3zvMmRFvpjU=",
+  "success": true,
+  "projectFilePath": "D:\\SpireDraft\\src\\SpireDraft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sleep\\.nuget\\packages\\godotsharp\\4.5.1\\godotsharp.4.5.1.nupkg.sha512",
+    "C:\\Users\\sleep\\.nuget\\packages\\sts2.ritsulib.compat.0.107.1\\0.6.2\\sts2.ritsulib.compat.0.107.1.0.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}

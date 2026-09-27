@@ -1,0 +1,14 @@
+D:\SpireDraft\tests\bin\Release\net9.0\SpireDraft.Tests.exe
+D:\SpireDraft\tests\bin\Release\net9.0\SpireDraft.Tests.deps.json
+D:\SpireDraft\tests\bin\Release\net9.0\SpireDraft.Tests.runtimeconfig.json
+D:\SpireDraft\tests\bin\Release\net9.0\SpireDraft.Tests.dll
+D:\SpireDraft\tests\bin\Release\net9.0\SpireDraft.Tests.pdb
+D:\SpireDraft\tests\obj\Release\net9.0\SpireDraft.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpireDraft\tests\obj\Release\net9.0\SpireDraft.Tests.AssemblyInfoInputs.cache
+D:\SpireDraft\tests\obj\Release\net9.0\SpireDraft.Tests.AssemblyInfo.cs
+D:\SpireDraft\tests\obj\Release\net9.0\SpireDraft.Tests.csproj.CoreCompileInputs.cache
+D:\SpireDraft\tests\obj\Release\net9.0\SpireDraft.Tests.dll
+D:\SpireDraft\tests\obj\Release\net9.0\refint\SpireDraft.Tests.dll
+D:\SpireDraft\tests\obj\Release\net9.0\SpireDraft.Tests.pdb
+D:\SpireDraft\tests\obj\Release\net9.0\SpireDraft.Tests.genruntimeconfig.cache
+D:\SpireDraft\tests\obj\Release\net9.0\ref\SpireDraft.Tests.dll

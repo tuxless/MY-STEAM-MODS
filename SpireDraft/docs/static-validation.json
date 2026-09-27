@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-27",
+  "checks": [
+    {
+      "check": "syntax_parse",
+      "file": "scripts/Build.ps1",
+      "result": "pass"
+    },
+    {
+      "check": "syntax_parse",
+      "file": "scripts/CollectGameReferences.ps1",
+      "result": "pass"
+    },
+    {
+      "check": "syntax_parse",
+      "file": "scripts/Common.ps1",
+      "result": "pass"
+    },
+    {
+      "check": "syntax_parse",
+      "file": "scripts/Upload.ps1",
+      "result": "pass"
+    },
+    {
+      "check": "syntax_parse",
+      "file": "scripts/ValidateWorkshop.ps1",
+      "result": "pass"
+    },
+    {
+      "check": "json_parse",
+      "file": "data/ratings.beta.json",
+      "result": "pass"
+    },
+    {
+      "check": "json_parse",
+      "file": "data/ratings.stable.json",
+      "result": "pass"
+    },
+    {
+      "check": "json_parse",
+      "file": "workshop/content/SpireDraft.json",
+      "result": "pass"
+    },
+    {
+      "check": "json_parse",
+      "file": "workshop/workshop.json",
+      "result": "pass"
+    },
+    {
+      "check": "xml_parse",
+      "file": "src/SpireDraft.csproj",
+      "result": "pass"
+    },
+    {
+      "check": "xml_parse",
+      "file": "tests/SpireDraft.Tests.csproj",
+      "result": "pass"
+    },
+    {
+      "check": "xml_parse",
+      "file": "Directory.Build.props",
+      "result": "pass"
+    },
+    {
+      "check": "official_uploader_template_structure",
+      "result": "pass",
+      "image_bytes": 60084
+    }
+  ],
+  "powershell_execution": "not_run_no_powershell_runtime",
+  "csharp_compilation": "0.1.0_beta_passed_on_user_windows_0.1.1_pending",
+  "core_test_execution": "20_passed_on_user_windows_beta_for_0.1.0",
+  "gameplay_tests": "0.1.0_beta_failed_zero_dynamic_patches_0.1.1_pending_retest",
+  "steam_upload": "not_run",
+  "workspace_validation": "0.1.0_beta_passed_on_user_windows_0.1.1_pending"
+}

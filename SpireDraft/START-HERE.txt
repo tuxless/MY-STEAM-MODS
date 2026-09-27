@@ -1,0 +1,22 @@
+评分抓牌 / Spire Draft
+
+这是源码和构建准备包，尚未包含可运行的模组 DLL，不能把此 ZIP 直接作为模组上传。
+workshop/ 是按照 Mega Crit 官方 ModUploader 组织的模板；缺少 DLL，不能直接上传。
+
+最省事的下一步：
+1. 解压所有文件。
+2. 双击 CollectGameReferences.cmd。
+3. 输入 stable（正式版）或 beta（测试版）并回车。
+4. 把生成的 GameReferences-*.zip 附加到当前对话，供继续适配和编译使用。
+
+如果你已安装 .NET 9 SDK：
+双击 Build.cmd 在你的电脑运行测试、编译并生成 dist 下的工坊工作区。
+在游戏中验证后，用官方 ModUploader 通过 Upload.cmd 上传。
+上传器的 -w 参数指向 dist/SpireDraft-stable 或 dist/SpireDraft-beta 目录；不要指向 ZIP、workshop/ 模板或 content/ 子目录。
+
+详细中文说明：README.zh-CN.md
+验证状态：docs/VALIDATION.md
+实机测试步骤：docs/TESTING.md
+
+依赖：RitsuLib 0.6.2；运行仅限单人。正式版和 Beta 必须分别验证。
+初始评分属于试用基线，可在 RitsuLib 设置页自行修改。
