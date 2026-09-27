@@ -1,0 +1,2887 @@
+{
+  "SchemaVersion": 1,
+  "Profile": "beta",
+  "Description": "试用初始评分：未专项评估的已知原版卡统一3分、最多2张；不是网站胜率榜或最优策略。正式版/Beta可分别覆盖。",
+  "Cards": {
+    "Abrasive": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Accelerant": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Accuracy": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Acrobatics": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "AdaptiveStrike": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Adrenaline": {
+      "Score": 5,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "Afterimage": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Afterlife": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Aggression": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Alchemize": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Alignment": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "AllForOne": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Anger": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Anointed": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Anticipate": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Apotheosis": {
+      "Score": 5,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "Apparition": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Armaments": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Arsenal": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "AscendersBane": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "AshenStrike": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Assassinate": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "AstralPulse": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Automation": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Backflip": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Backstab": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BadLuck": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "BallLightning": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BansheesCry": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Barrage": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Barricade": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Bash": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BattleTrance": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BeaconOfHope": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BeamCell": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BeatDown": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BeatIntoShape": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Beckon": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Begone": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BelieveInYou": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BiasedCognition": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BigBang": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BlackHole": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BladeDance": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BladeOfInk": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BlightStrike": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BloodWall": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Bloodletting": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Bludgeon": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Blur": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BodySlam": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Bodyguard": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Bolas": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Bombardment": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BoneShards": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BoostAway": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BootSequence": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BorrowedTime": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BouncingFlask": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Brand": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Break": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Breakthrough": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BrightestFlame": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BubbleBubble": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Buffer": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BulkUp": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BulletTime": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Bully": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Bulwark": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "BundleOfJoy": {
+      "Score": 2,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Burn": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "BurningPact": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Burst": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Bury": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ByrdSwoop": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ByrdonisEgg": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Calamity": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Calcify": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "CalculatedGamble": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "CallOfTheVoid": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Caltrops": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Capacitor": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "CaptureSpirit": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Cascade": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Catastrophe": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "CelestialMight": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Chaos": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Charge": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ChargeBattery": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ChildOfTheStars": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Chill": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Cinder": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Clash": {
+      "Score": 2,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Claw": {
+      "Score": 2,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Cleanse": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "CloakAndDagger": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "CloakOfStars": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Clumsy": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "ColdSnap": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "CollisionCourse": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Colossus": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Comet": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Compact": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "CompileDriver": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Conflagration": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Conqueror": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ConsumingShadow": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Convergence": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Coolant": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Coolheaded": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Coordinate": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "CorrosiveWave": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Corruption": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "CosmicIndifference": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Countdown": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "CrashLanding": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "CreativeAi": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "CrescentSpear": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "CrimsonMantle": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Cruelty": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "CrushUnder": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "CurseOfTheBell": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "DaggerSpray": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "DaggerThrow": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "DanseMacabre": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "DarkEmbrace": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "DarkShackles": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Darkness": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Dash": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Dazed": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "DeadlyPoison": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "DeathMarch": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Deathbringer": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "DeathsDoor": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Debilitate": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Debris": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Debt": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "Decay": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "DecisionsDecisions": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "DefendDefect": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "DefendIronclad": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "DefendNecrobinder": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "DefendRegent": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "DefendSilent": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "Defile": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Deflect": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Defragment": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Defy": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Delay": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Demesne": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "DemonForm": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "DemonicShield": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Devastate": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "DevourLife": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Dirge": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Discovery": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Disintegration": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Dismantle": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Distraction": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "DodgeAndRoll": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Dominate": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "DoubleEnergy": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Doubt": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "DrainPower": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "DramaticEntrance": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Dredge": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "DrumOfBattle": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "DualWield": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Dualcast": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "DyingStar": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "EchoForm": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "EchoingSlash": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Eidolon": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "EndOfDays": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "EnergySurge": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "EnfeeblingTouch": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Enlightenment": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Enthralled": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Entrench": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Entropy": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Envenom": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Equilibrium": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Eradicate": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "EscapePlan": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "EternalArmor": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "EvilEye": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ExpectAFight": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Expertise": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Expose": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Exterminate": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "FallingStar": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "FanOfKnives": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Fasten": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Fear": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Feed": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "FeedingFrenzy": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "FeelNoPain": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Feral": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Fetch": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "FiendFire": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "FightMe": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "FightThrough": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Finesse": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Finisher": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Fisticuffs": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "FlakCannon": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "FlameBarrier": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Flanking": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "FlashOfSteel": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Flatten": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Flechettes": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "FlickFlack": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "FocusedStrike": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "FollowThrough": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Folly": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Footwork": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ForbiddenGrimoire": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ForegoneConclusion": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ForgottenRitual": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "FranticEscape": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Friendship": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Ftl": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Fuel": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Furnace": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Fusion": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "GammaBlast": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "GangUp": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "GatherLight": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Genesis": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "GeneticAlgorithm": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "GiantRock": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Glacier": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Glasswork": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Glimmer": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "GlimpseBeyond": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Glitterstream": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Glow": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "GoForTheEyes": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "GoldAxe": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "GrandFinale": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Grapple": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "GraveWarden": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Graveblast": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Greed": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Guards": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "GuidingStar": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Guilty": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "GunkUp": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Hailstorm": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "HammerTime": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "HandOfGreed": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "HandTrick": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Hang": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Haunt": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Havoc": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Haze": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Headbutt": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "HeavenlyDrill": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Hegemony": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "HeirloomHammer": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "HelixDrill": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "HelloWorld": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Hellraiser": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Hemokinesis": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "HiddenCache": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "HiddenDaggers": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "HiddenGem": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "HighFive": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Hologram": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Hotfix": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "HowlFromBeyond": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "HuddleUp": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Hyperbeam": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "IAmInvincible": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "IceLance": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Ignition": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Impatience": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Impervious": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Infection": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "InfernalBlade": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Inferno": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "InfiniteBlades": {
+      "Score": 2,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Inflame": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Injury": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "Intercept": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Invoke": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "IronWave": {
+      "Score": 2,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Iteration": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "JackOfAllTrades": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Jackpot": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Juggernaut": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Juggling": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "KinglyKick": {
+      "Score": 2,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "KinglyPunch": {
+      "Score": 2,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "KnifeTrap": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Knockdown": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "KnockoutBlow": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "KnowThyPlace": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "LanternKey": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Largesse": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "LeadingStrike": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Leap": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "LegSweep": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "LegionOfBone": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Lethality": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Lift": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "LightningRod": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Loop": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Luminesce": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "LunarBlast": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MachineLearning": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MadScience": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MakeItSo": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Malaise": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Mangle": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ManifestAuthority": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MasterOfStrategy": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MasterPlanner": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Maul": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Mayhem": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Melancholy": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MementoMori": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Metamorphosis": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MeteorShower": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MeteorStrike": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Mimic": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MindBlast": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MindRot": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MinionDiveBomb": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MinionSacrifice": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MinionStrike": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Mirage": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Misery": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MoltenFist": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MomentumStrike": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MonarchsGaze": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Monologue": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "MultiCast": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Murder": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "NecroMastery": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "NegativePulse": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "NeowsFury": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Neurosurge": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Neutralize": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "NeutronAegis": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Nightmare": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "NoEscape": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Normality": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "Nostalgia": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "NotYet": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "NoxiousFumes": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Null": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Oblivion": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Offering": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Omnislice": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "OneTwoPunch": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Orbit": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Outbreak": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Outmaneuver": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Overclock": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "PactsEnd": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Pagestorm": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "PaleBlueDot": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Panache": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "PanicButton": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Parry": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Parse": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ParticleWall": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Patter": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Peck": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "PerfectedStrike": {
+      "Score": 2,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "PhantomBlades": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "PhotonCut": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "PiercingWail": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Pillage": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "PillarOfCreation": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Pinpoint": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "PoisonedStab": {
+      "Score": 2,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Poke": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "PommelStrike": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "PoorSleep": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "Pounce": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "PreciseCut": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Predator": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "PrepTime": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Prepared": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "PrimalForce": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Production": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Prolong": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Prophesize": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Protector": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Prowess": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "PullAggro": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "PullFromBelow": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Purity": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Putrefy": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Pyre": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Quadcast": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Quasar": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Radiate": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Rage": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Rainbow": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Rally": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Rampage": {
+      "Score": 2,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Rattle": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Reanimate": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Reap": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ReaperForm": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Reave": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Reboot": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Rebound": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "RefineBlade": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Reflect": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Reflex": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Refract": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Regret": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "Relax": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Rend": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Resonance": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Restlessness": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Ricochet": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "RightHandHand": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "RipAndTear": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "RocketPunch": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "RollingBoulder": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "RoyalGamble": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Royalties": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Rupture": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Sacrifice": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Salvo": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Scavenge": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Scourge": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Scrape": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Scrawl": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SculptingStrike": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Seance": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SecondWind": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SecretTechnique": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SecretWeapon": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SeekerStrike": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SeekingEdge": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SentryMode": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SerpentForm": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SetupStrike": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SevenStars": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Severance": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ShadowShield": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ShadowStep": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Shadowmeld": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Shame": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "SharedFate": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Shatter": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ShiningStrike": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Shiv": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Shockwave": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Shroud": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ShrugItOff": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SicEm": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SignalBoost": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Skewer": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Skim": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SleightOfFlesh": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Slice": {
+      "Score": 2,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Slimed": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "Sloth": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "Smokestack": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Snakebite": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Snap": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Sneaky": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SolarStrike": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Soot": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "Soul": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SoulStorm": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SovereignBlade": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Sow": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SpectrumShift": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Speedster": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Spinner": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SpiritOfAsh": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Spite": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Splash": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SpoilsMap": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SpoilsOfBattle": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SporeMind": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Spur": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Squash": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Squeeze": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Stack": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Stampede": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Stardust": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Stoke": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Stomp": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "StoneArmor": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Storm": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "StormOfSteel": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Strangle": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Stratagem": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "StrikeDefect": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "StrikeIronclad": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "StrikeNecrobinder": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "StrikeRegent": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "StrikeSilent": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "Subroutine": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SuckerPunch": {
+      "Score": 2,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SummonForth": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Sunder": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Supercritical": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Supermassive": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Suppress": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Survivor": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SweepingBeam": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SweepingGaze": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SwordBoomerang": {
+      "Score": 2,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "SwordSage": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Synchronize": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Synthesis": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Tactician": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "TagTeam": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Tank": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Taunt": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "TearAsunder": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Tempest": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Terraforming": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "TeslaCoil": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "TheBomb": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "TheGambit": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "TheHunt": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "TheScythe": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "TheSealedThrone": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "TheSmith": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ThinkingAhead": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Thrash": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ThrummingHatchet": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Thunder": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Thunderclap": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "TimesUp": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ToolsOfTheTrade": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "ToricToughness": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Toxic": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Tracking": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Transfigure": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "TrashToTreasure": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Tremble": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "TrueGrit": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Turbo": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "TwinStrike": {
+      "Score": 2,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Tyranny": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "UltimateDefend": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "UltimateStrike": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Undeath": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Unleash": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Unmovable": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Unrelenting": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Untouchable": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "UpMySleeve": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Uppercut": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Uproar": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Veilpiercer": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Venerate": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Vicious": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Void": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "VoidForm": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Volley": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Voltaic": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "WasteAway": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "WellLaidPlans": {
+      "Score": 4,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Whirlwind": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Whistle": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "WhiteNoise": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Wish": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Wisp": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Wound": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "WraithForm": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Writhe": {
+      "Score": 1,
+      "MaxCopies": null,
+      "Priority": 0
+    },
+    "WroughtInWar": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    },
+    "Zap": {
+      "Score": 3,
+      "MaxCopies": 2,
+      "Priority": 0
+    }
+  }
+}

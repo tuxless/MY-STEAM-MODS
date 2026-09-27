@@ -1,0 +1,10 @@
+{
+    "createdUtc":  "2026-09-27T13:52:24.3982112Z",
+    "branch":  "beta",
+    "coreTests":  "passed",
+    "gameSha256":  "0861BFA1DF347538D932F22D580E75420F08082792EB914E53B4882764ACDBE9",
+    "dllSha256":  "FC88263FBCA1CA15DCF3E8C7761FB735762C0AA2BEA68C89EC952967BD4EF364",
+    "ritsuLib":  "0.6.2",
+    "gameplayTest":  "not yet performed",
+    "note":  "Compilation does not prove in-game compatibility. Test this workspace with the selected game branch."
+}

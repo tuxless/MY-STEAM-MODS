@@ -1,0 +1,13 @@
+{
+  "id": "SpireDraft",
+  "pck_name": "SpireDraft",
+  "name": "评分抓牌 / Spire Draft",
+  "author": "SpireDraft",
+  "description": "依赖 RitsuLib 的单人卡牌奖励评分与自动抓牌工具。支持可编辑的 1–5 分、牌组张数阈值、重复上限和取消倒计时。",
+  "version": "0.1.1",
+  "has_pck": false,
+  "has_dll": true,
+  "affects_gameplay": true,
+  "min_game_version": "0.107.1",
+  "dependencies": [{ "id": "STS2-RitsuLib", "version": "0.6.2" }]
+}

@@ -1,0 +1,14 @@
+D:\SpireDraft\build\beta\SpireDraft.deps.json
+D:\SpireDraft\build\beta\SpireDraft.runtimeconfig.json
+D:\SpireDraft\build\beta\SpireDraft.dll
+D:\SpireDraft\build\beta\SpireDraft.pdb
+D:\SpireDraft\src\obj\Release\net9.0\SpireDraft.csproj.AssemblyReference.cache
+D:\SpireDraft\src\obj\Release\net9.0\SpireDraft.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpireDraft\src\obj\Release\net9.0\SpireDraft.AssemblyInfoInputs.cache
+D:\SpireDraft\src\obj\Release\net9.0\SpireDraft.AssemblyInfo.cs
+D:\SpireDraft\src\obj\Release\net9.0\SpireDraft.csproj.CoreCompileInputs.cache
+D:\SpireDraft\src\obj\Release\net9.0\SpireDraft.dll
+D:\SpireDraft\src\obj\Release\net9.0\refint\SpireDraft.dll
+D:\SpireDraft\src\obj\Release\net9.0\SpireDraft.pdb
+D:\SpireDraft\src\obj\Release\net9.0\SpireDraft.genruntimeconfig.cache
+D:\SpireDraft\src\obj\Release\net9.0\ref\SpireDraft.dll
